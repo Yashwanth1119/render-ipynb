@@ -33,7 +33,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: deep orange
+      primary: teal
       accent: lime    
   # logo: PyTorch_logo_icon.svg
   
