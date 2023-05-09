@@ -3,6 +3,7 @@ site_name: renderit
 # defeine TOC or order of website-
 nav:
   - Home: index.md
+  - APIreference: APIreference.md
 
 site_author: Yashwanth Tumburu
 site_description: >-
