@@ -39,11 +39,11 @@ theme:
   
 extra:
   social:
-   - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/github-alt
       link: https://github.com/Yashwanth1119
-   - icon: fontawesome/brands/linkedin
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/tumburu-vijay-venkat-yashwanth-2b559021b/
-   - icon: fontawesome/brands/instagram
+    - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/yashwanth_tumburu/
 
 extra_javascript:

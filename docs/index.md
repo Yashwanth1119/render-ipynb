@@ -2,7 +2,7 @@
 
 This package is meant to render Youtube tutorial videos and reference site into the Colab or Jupyter notebooks for easy reference in future.
 
-- PYPI link for this package - [IPYNBrenderer](https://pypi.org/project/renderit/)
+- PYPI link for this package - [renderit](https://pypi.org/project/renderit/)
 
 ## Getting Started
 
@@ -18,7 +18,8 @@ This package is meant to render Youtube tutorial videos and reference site into 
 ### Quickstart
 Check the short video for quickstart - 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-YA_dA8C20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIzS0OB0qNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
