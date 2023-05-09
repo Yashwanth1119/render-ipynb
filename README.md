@@ -1,2 +1,2 @@
-# render-ipynb
-IPYNB renderer python package
+# renderit
+renderit python package
